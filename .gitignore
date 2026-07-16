@@ -11,8 +11,5 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 
-# Output Images
-output/
-
 # macOS
 .DS_Store
